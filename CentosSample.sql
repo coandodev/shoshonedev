@@ -34,3 +34,5 @@ WHERE price < 70 GROUP BY price ORDER BY price
 
 
 we may be behind master
+
+This is from Centos
