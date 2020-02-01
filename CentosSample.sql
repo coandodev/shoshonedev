@@ -33,6 +33,12 @@ SELECT COUNT(price), price FROM orders
 WHERE price < 70 GROUP BY price ORDER BY price
 
 
+
 we may be behind master
 
 This is from Centos
+
+I'm adding onto this file from UBUNTU
+
+Adding on more to ttest something
+
