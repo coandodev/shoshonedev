@@ -31,3 +31,6 @@ Another sample of use of Group By: this expression will select records with a pr
 
 SELECT COUNT(price), price FROM orders 
 WHERE price < 70 GROUP BY price ORDER BY price
+
+
+we may be behind master
